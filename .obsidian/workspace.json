@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "7513674bbabf0b1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac51f82167411986",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "158427d6819b663f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Быстрые ответы/Закрыть тикет.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1ca2b2a63dac33f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8be4d5232675892c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56d881a173b34488",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86d001ae9729ceca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6d7a475277531da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "14ded4b19cf41c33",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed8ae825ca61baf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce7094fe609b3218",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Быстрые ответы/Закрыть тикет.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a96c41539fffd4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Быстрые ответы/Закрыть тикет.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "971c26fca233c0c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4423d46c53055586",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Быстрые ответы/Закрыть тикет.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "workspaces:Пространства": false
+    }
+  },
+  "active": "158427d6819b663f",
+  "lastOpenFiles": [
+    "Быстрые ответы/Приветствия.md",
+    "Быстрые ответы/Фича.md",
+    "Быстрые ответы/Новый вопрос клиента.md",
+    "Быстрые ответы/Закрыть чат.md",
+    "Быстрые ответы/Закрыть тикет.md",
+    "Без названия",
+    "Без названия.md",
+    "Быстрые ответы/ENT.md",
+    "Быстрые ответы/Вопрос решился самостоятельно.md",
+    "Без названия.canvas",
+    "Быстрые ответы/en",
+    "Быстрые ответы/ru",
+    "Быстрые ответы/ru/Приветствия",
+    "Быстрые ответы"
+  ]
+}
