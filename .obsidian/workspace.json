@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f82482a1f4305d6",
+        "id": "21fad0af6e6d9ffe",
         "type": "tabs",
         "children": [
           {
-            "id": "eac2debe104492be",
+            "id": "0eb3db495349ef58",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -118,16 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,7 +139,7 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "56d881a173b34488",
+  "active": "0eb3db495349ef58",
   "lastOpenFiles": [
     "README.md",
     "Быстрые ответы/Закрыть тикет.md",
