@@ -11,12 +11,8 @@
             "id": "eac2debe104492be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +140,7 @@
       "workspaces:Пространства": false
     }
   },
-  "active": "eac2debe104492be",
+  "active": "56d881a173b34488",
   "lastOpenFiles": [
     "README.md",
     "Быстрые ответы/Закрыть тикет.md",
