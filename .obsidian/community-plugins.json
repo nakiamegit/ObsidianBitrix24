@@ -1,5 +1,11 @@
 [
   "obsidian-git",
   "editing-toolbar",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "dataview",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-languagetool-plugin",
+  "obsidian-outliner",
+  "tag-wrangler",
+  "templater-obsidian"
 ]

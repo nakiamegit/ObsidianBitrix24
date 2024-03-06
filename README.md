@@ -1,1 +1,1 @@
-# ObsidianBitrix24
+# <font color="#002060">Obsidian for Bitrix24</font>
