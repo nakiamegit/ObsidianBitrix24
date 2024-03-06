@@ -1,1 +1,1 @@
-# ObsidianBitrix24 for Irish
+# ObsidianBitrix24
