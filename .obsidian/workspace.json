@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Быстрые ответы/Фича.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Быстрые ответы/Фича.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Быстрые ответы/Фича.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Быстрые ответы/Фича.md"
               }
             }
           }
@@ -144,17 +144,18 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "workspaces:Пространства": false
+      "workspaces:Пространства": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "0eb3db495349ef58",
   "lastOpenFiles": [
+    "Быстрые ответы/Закрыть тикет.md",
+    "README.md",
     "Быстрые ответы/Фича.md",
     "Быстрые ответы/Приветствия.md",
-    "README.md",
     "Быстрые ответы/Новый вопрос клиента.md",
     "Быстрые ответы/Закрыть чат.md",
-    "Быстрые ответы/Закрыть тикет.md",
     "Быстрые ответы",
     "Без названия",
     "Без названия.md",
