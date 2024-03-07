@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Справочная по категориям/Инфоблоки и Списки/API/CIBlockElement/Выводим элемент и его мн. свойство.md",
+                "file": "Справочная по категориям/Инфоблоки и Списки/API/CIBlockElement/Обновить картинку.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Справочная по категориям/Инфоблоки и Списки/API/CIBlockElement/Выводим элемент и его мн. свойство.md",
+                "file": "Справочная по категориям/Инфоблоки и Списки/API/CIBlockElement/Обновить картинку.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Справочная по категориям/Инфоблоки и Списки/API/CIBlockElement/Выводим элемент и его мн. свойство.md",
+                "file": "Справочная по категориям/Инфоблоки и Списки/API/CIBlockElement/Обновить картинку.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Справочная по категориям/Инфоблоки и Списки/API/CIBlockElement/Выводим элемент и его мн. свойство.md"
+                "file": "Справочная по категориям/Инфоблоки и Списки/API/CIBlockElement/Обновить картинку.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "0eb3db495349ef58",
   "lastOpenFiles": [
+    "Справочная по категориям/Инфоблоки и Списки/API/CIBlockElement/Вывести элемент и его мн. свойство.md",
+    "Справочная по категориям/Инфоблоки и Списки/API/CIBlockElement/Обновить картинку.md",
     "Быстрые ответы/Фича.md",
-    "Справочная по категориям/Инфоблоки и Списки/API/CIBlockElement/Выводим элемент и его мн. свойство.md",
     "Справочная по категориям/Инфоблоки и Списки/API/CIBlockElement",
     "Справочная по категориям/Инфоблоки и Списки/API",
     "Справочная по категориям/Инфоблоки и Списки/Списки",
